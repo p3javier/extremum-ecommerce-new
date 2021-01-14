@@ -1,0 +1,7 @@
+@import url('https://cdn.metroui.org.ua/v4/css/metro-all.min.css');
+
+
+#navbar > li {
+    min-width: 30%;
+    text-align: center;
+}

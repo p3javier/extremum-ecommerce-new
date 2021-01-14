@@ -1,0 +1,27 @@
+.react-sidenav-tab {
+  -webkit-tap-highlight-color: transparent;
+  text-rendering: optimizeSpeed;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-box-direction: normal;
+  list-style: none inside;
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  vertical-align: baseline;
+  touch-action: manipulation;
+  box-shadow: none;
+  position: relative;
+  display: block;
+  color: inherit;
+  padding: 0.625rem 1rem 0.625rem 3rem;
+  text-decoration: none;
+  background-color: #f8f8f8;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

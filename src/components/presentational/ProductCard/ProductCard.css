@@ -1,0 +1,32 @@
+#title {
+  border-bottom: 1px #eee solid;
+  z-index: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+
+#view-product-details {
+  position: absolute;
+  bottom: 0px;
+}
+
+#link-button {
+  -webkit-tap-highlight-color: transparent;
+  font: inherit;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  user-select: none;
+  font-size: 0.875rem;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  touch-action: manipulation;
+  position: relative;
+  text-decoration: none;
+  background-color: transparent;
+  box-shadow: none;
+  color: white;
+}

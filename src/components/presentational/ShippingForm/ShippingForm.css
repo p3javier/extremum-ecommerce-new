@@ -1,0 +1,8 @@
+.form-group {
+  display: grid;
+}
+
+.formik_invalid_feedback {
+  color: #ce352c;
+  font-size: 0.9em;
+}

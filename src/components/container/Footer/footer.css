@@ -1,0 +1,21 @@
+.footer {
+    background-color: #F8F8F8;
+    position: absolute;
+    width: 100%;
+}
+
+.footer_about_us,.logo_footer {
+    text-align: left;
+}
+
+#paragraph-1 {
+    text-align: center;
+}
+
+#footer_list_1 > li, #footer_list_2 > li {
+    list-style-type: none;
+}
+
+#footer_list_1 > li:hover, #footer_list_2 > li:hover {
+    text-decoration: underline;
+}
